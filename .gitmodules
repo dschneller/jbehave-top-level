@@ -1,0 +1,9 @@
+[submodule "jbehave-core"]
+	path = jbehave-core
+	url = https://dschneller@github.com/dschneller/jbehave-core.git
+[submodule "plugin/jbehave-eclipse-plugin"]
+	path = plugin/jbehave-eclipse-plugin
+	url = https://dschneller@github.com/dschneller/jbehave-eclipse-plugin.git
+[submodule "plugin/jbehave-eclipse-plugin-parent"]
+	path = plugin/jbehave-eclipse-plugin-parent
+	url = https://dschneller@github.com/dschneller/jbehave-eclipse-plugin-parent.git
