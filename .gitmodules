@@ -10,3 +10,6 @@
 [submodule "plugin/jbehave-eclipse-plugin.tests"]
 	path = plugin/jbehave-eclipse-plugin.tests
 	url = https://dschneller@github.com/dschneller/jbehave-eclipse-plugin.tests.git
+[submodule "junit-monitor/jbehave-junit-monitor"]
+	path = junit-monitor/jbehave-junit-monitor
+	url = https://dschneller@github.com/dschneller/jbehave-junit-monitor.git
