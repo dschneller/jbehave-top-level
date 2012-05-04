@@ -7,3 +7,6 @@
 [submodule "plugin/jbehave-eclipse-plugin-parent"]
 	path = plugin/jbehave-eclipse-plugin-parent
 	url = https://dschneller@github.com/dschneller/jbehave-eclipse-plugin-parent.git
+[submodule "plugin/jbehave-eclipse-plugin.tests"]
+	path = plugin/jbehave-eclipse-plugin.tests
+	url = https://dschneller@github.com/dschneller/jbehave-eclipse-plugin.tests.git
