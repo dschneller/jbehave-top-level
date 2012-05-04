@@ -13,3 +13,9 @@
 [submodule "junit-monitor/jbehave-junit-monitor"]
 	path = junit-monitor/jbehave-junit-monitor
 	url = https://dschneller@github.com/dschneller/jbehave-junit-monitor.git
+[submodule "plugin/jbehave-eclipse-plugin.feature"]
+	path = plugin/jbehave-eclipse-plugin.feature
+	url = https://dschneller@github.com/dschneller/jbehave-eclipse-plugin.feature.git
+[submodule "plugin/jbehave-eclipse-plugin.updatesite"]
+	path = plugin/jbehave-eclipse-plugin.updatesite
+	url = https://dschneller@github.com/dschneller/jbehave-eclipse-plugin.updatesite.git
